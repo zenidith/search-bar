@@ -1,19 +1,21 @@
 html, body {
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3em;
 }
 
 #container {
-    width: 300px;
+    width: 500px;
     margin: 0 auto;
     margin-top: 20px;
-    background-color: royalblue;
+    background-color: rgb(142, 170, 255);
 }
 
 #search {
     display: flex;
     padding: 20px;
-    background-color: orange;
+    background-color: rgb(106, 173, 232);
 }
 
 #search label {
