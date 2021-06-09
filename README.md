@@ -1,4 +1,6 @@
-A small search bar project in order to learn keystroke events with JavaScript. In this exercise I have covered: 
+A small search bar project in order to learn keystroke events with JavaScript from [Scrimba](https://scrimba.com/). 
+
+In this exercise I have covered: 
 - how to use `event.target.value`
 - how to use addEventListener
 - how to use toLowerCase()
